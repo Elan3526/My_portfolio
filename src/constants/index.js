@@ -22,6 +22,11 @@ import {
   jobit,
   tripguide,
   threejs,
+  ayush,
+  gnanesh,
+  imaginify,
+  psna,
+  mine,
 } from "../assets";
 
 export const navLinks = [
@@ -122,7 +127,7 @@ const experiences = [
   {
     title: "Full Stack Developer",
     company_name: "PSNA",
-    icon: tesla,
+    icon: psna,
     iconBg: "#E6DEDD",
     date: "Jan 2021 - Feb 2022",
     points: [
@@ -180,7 +185,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: ayush,
     source_code_link: "https://github.com/Elan3526/Ayush_portal",
   },
   {
@@ -197,7 +202,7 @@ const projects = [
         color: "green-text-gradient",
       },
     ],
-    image: jobit,
+    image: gnanesh,
     source_code_link: "https://github.com/Elan3526/Gnanesh_Portfolio",
   },
   {
@@ -218,28 +223,24 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: imaginify,
     source_code_link: "https://github.com/Elan3526/Imaginify_Ai",
   },
   {
-    name: "Movie Land",
+    name: "My porfolio",
     description:
       "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
       {
-        name: "nextjs",
+        name: "react",
         color: "blue-text-gradient",
-      },
-      {
-        name: "mongodb",
-        color: "green-text-gradient",
       },
       {
         name: "tailwind-css",
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: mine,
     source_code_link: "https://github.com/Elan3526/Imaginify_Ai",
   },
   {

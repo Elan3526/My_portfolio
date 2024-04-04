@@ -22,10 +22,15 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
 import mobi from "./company/mobi.jpg";
-import meta from "./company/meta.jpg";
+import meta from "./company/meta.png";
+import psna from "./company/psna.png";
 import tesla from "./company/tesla.png";
 
 import carrent from "./carrent.png";
+import ayush from "./ayush.png";
+import gnanesh from "./gnanesh.png";
+import mine from "./mine.png";
+import imaginify from "./imaginify.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -57,4 +62,9 @@ export {
   carrent,
   jobit,
   tripguide,
+  ayush,
+  gnanesh,
+  imaginify,
+  psna,
+  mine,
 };
