@@ -114,12 +114,13 @@ const Contact = () => {
             />
           </label>
 
-          <button
-            type='submit'
+          <a
+            class='submit'
+            href="mailto:thunderelan175@gmail.com"
             className='bg-tertiary py-3 px-8 rounded-xl outline-none w-fit text-white font-bold shadow-md shadow-primary'
           >
             {loading ? "Sending..." : "Send"}
-          </button>
+          </a>
         </form>
       </motion.div>
 
